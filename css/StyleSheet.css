@@ -35,6 +35,8 @@ body {
   justify-content: space-between;
   align-items: center;
   max-width: 740px;
+  margin-top: 90px;
+  margin-bottom: 90px;
 }
 
 img {
@@ -47,6 +49,10 @@ img {
   }
   body {
     width: 100%;
+  }
+  .recipe {
+    margin-top: 0;
+    margin-bottom: 0;
   }
 }
 .recipe h1 {
